@@ -5,3 +5,8 @@ app/tmp/*
 app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
 !empty
+Host github.com
+        User          manali1986
+
+        IdentityFile    ~/.ssh/git_rsa
+
